@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3529212410_1280228252_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3040924799_3890345977_891392230.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3040924799_45078470_1409972333.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3040924799_3890345977_214287150.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3040924799_523999303_1116730162.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Square/1080p60/partial_movie_files/MyFirstScene/3040924799_3890345977_806482116.mp4'
