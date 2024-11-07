@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3529212410_3968572861_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_2687959962_1216319750.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_4257274513_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_1625562030_4115172320.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_2766607231_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_1091427861_3452745997.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_1895241564_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task2/1080p60/partial_movie_files/TextManim/3040924799_2862073587_2397127754.mp4'

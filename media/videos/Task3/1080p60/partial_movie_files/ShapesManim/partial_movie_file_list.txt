@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sb/Downloads/Manim/media/videos/Task3/1080p60/partial_movie_files/ShapesManim/3529212410_2520673685_223132457.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task3/1080p60/partial_movie_files/ShapesManim/3040924799_2718091855_2128451474.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task3/1080p60/partial_movie_files/ShapesManim/3040924799_4243983312_1520218056.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task3/1080p60/partial_movie_files/ShapesManim/3040924799_3395166601_2632245500.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task3/1080p60/partial_movie_files/ShapesManim/3040924799_2573464092_4161790124.mp4'
