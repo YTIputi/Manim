@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sb/Downloads/Manim/media/videos/Task1/1080p60/partial_movie_files/CameraMovementExample/3059813997_3937551157_836382038.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task1/1080p60/partial_movie_files/CameraMovementExample/3133488427_1178428087_2182130118.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task1/1080p60/partial_movie_files/CameraMovementExample/2579788170_3937551157_836382038.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task1/1080p60/partial_movie_files/CameraMovementExample/799417821_2968822196_836382038.mp4'
