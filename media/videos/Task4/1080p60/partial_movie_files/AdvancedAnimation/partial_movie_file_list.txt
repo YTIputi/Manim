@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/sb/Downloads/Manim/media/videos/Task4/1080p60/partial_movie_files/AdvancedAnimation/3529212410_4066192402_3256495558.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task4/1080p60/partial_movie_files/AdvancedAnimation/3040924799_1353324043_3256495558.mp4'
+file 'file:/home/sb/Downloads/Manim/media/videos/Task4/1080p60/partial_movie_files/AdvancedAnimation/3040924799_1190504341_2740342340.mp4'
